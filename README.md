@@ -17,4 +17,4 @@
 
 ## ライセンスについて
 
-ライセンスは、MITライセンスを採用しております。詳しくは「LICENCE」をご覧ください。
+ライセンスは、MITライセンスを採用しております。詳しくは[LICENCE](https://github.com/GAMEP7718/anki?tab=MIT-1-ov-file)　をご覧ください。
