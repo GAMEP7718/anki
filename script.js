@@ -1,6 +1,6 @@
     let wordMap = {};
     let currentWord = null;
-    let currentSubject = "数学";
+    let currentSubject = "math";
     let correctCount = 0;
     let totalCount = 0;
 
